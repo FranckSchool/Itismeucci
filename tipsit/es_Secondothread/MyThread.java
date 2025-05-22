@@ -1,3 +1,6 @@
+
+package tipsit.es_Secondothread;
+
 public class MyThread extends Thread {
     
 
